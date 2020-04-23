@@ -1,3 +1,0 @@
-2020-04-23 01:18:25 jdbc[3]: exception
-org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "DROP TABLE IF EXISTS PERSONAGENS CREATE[*] TABLE PERSONAGENS( ID_PERSONAGENS BIGINT AUTO_INCREMENT, ATOR VARCHAR(100) NOT NULL, IDADE INT NOT NULL, PERSONAGEM VARCHAR(100) NOT NULL, FILME VARCHAR(100) NOT NULL, PRIMARY KEY(ID_PERSONAGENS))"; SQL statement:
-drop table if exists personagens create table personagens( id_personagens bigint auto_increment, ator varchar(100) not null, idade int not null, personagem varchar(100) not null, filme varchar(100) not null, primary key(id_personagens)) [42000-200]
